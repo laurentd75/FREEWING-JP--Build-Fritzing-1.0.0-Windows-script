@@ -1,12 +1,12 @@
 @echo off
 rem 04_Install_Visual_Studio_Build_Tools_2019.bat
-rem http:^//www.neko.ne.jp/~freewing/software/build_fritzing_100_windows/
+rem http://www.neko.ne.jp/~freewing/software/build_fritzing_100_windows/
 rem Copyright (c) 2023 FREE WING,Y.Sakamoto
 echo %0
 timeout /T 10 /NOBREAK
 cd /d \00_fritzing
 
-if exist "C:^\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools" exit
+if exist "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools" exit
 
 
 @echo off
