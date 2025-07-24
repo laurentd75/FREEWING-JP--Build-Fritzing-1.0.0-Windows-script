@@ -44,8 +44,7 @@ vs_BuildTools_2019.exe --config %VSDIR%\VSBT_VS2019.vsconfig ^
     Microsoft.VisualStudio.Component.VC.CoreIde;^
     Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core;^
     Microsoft.VisualStudio.Workload.VCTools;^
-    includeRecommended;^
-    includeOptional
+    includeRecommended
 
 
 exit
