@@ -32,7 +32,8 @@ vs_BuildTools_2019.exe ^
   --wait ^
   --add ^
     Microsoft.VisualStudio.Component.Roslyn.Compiler;^
-    Microsoft.Component.MSBuild;^Microsoft.VisualStudio.Component.CoreBuildTools;^
+    Microsoft.Component.MSBuild;^
+    Microsoft.VisualStudio.Component.CoreBuildTools;^
     Microsoft.VisualStudio.Workload.MSBuildTools;^
     Microsoft.VisualStudio.Component.Windows10SDK;^
     Microsoft.VisualStudio.Component.VC.CoreBuildTools;^
